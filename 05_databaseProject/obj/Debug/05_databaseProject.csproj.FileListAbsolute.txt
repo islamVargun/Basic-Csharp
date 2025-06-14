@@ -1,0 +1,14 @@
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\05_databaseProject\bin\Debug\05_databaseProject.exe.config
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\05_databaseProject\bin\Debug\05_databaseProject.exe
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\05_databaseProject\bin\Debug\05_databaseProject.pdb
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\05_databaseProject\obj\Debug\05_databaseProject.csproj.AssemblyReference.cache
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\05_databaseProject\obj\Debug\05_databaseProject.csproj.CoreCompileInputs.cache
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\05_databaseProject\obj\Debug\05_databaseProject.exe
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\05_databaseProject\obj\Debug\05_databaseProject.pdb
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\05_databaseProject\bin\Debug\05_databaseProject.exe.config
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\05_databaseProject\bin\Debug\05_databaseProject.exe
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\05_databaseProject\bin\Debug\05_databaseProject.pdb
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\05_databaseProject\obj\Debug\05_databaseProject.csproj.AssemblyReference.cache
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\05_databaseProject\obj\Debug\05_databaseProject.csproj.CoreCompileInputs.cache
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\05_databaseProject\obj\Debug\05_databaseProject.exe
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\05_databaseProject\obj\Debug\05_databaseProject.pdb

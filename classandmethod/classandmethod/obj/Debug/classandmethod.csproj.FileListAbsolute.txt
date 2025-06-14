@@ -1,0 +1,7 @@
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\classandmethod\classandmethod\bin\Debug\classandmethod.exe.config
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\classandmethod\classandmethod\bin\Debug\classandmethod.exe
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\classandmethod\classandmethod\bin\Debug\classandmethod.pdb
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\classandmethod\classandmethod\obj\Debug\classandmethod.csproj.AssemblyReference.cache
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\classandmethod\classandmethod\obj\Debug\classandmethod.csproj.CoreCompileInputs.cache
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\classandmethod\classandmethod\obj\Debug\classandmethod.exe
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\classandmethod\classandmethod\obj\Debug\classandmethod.pdb

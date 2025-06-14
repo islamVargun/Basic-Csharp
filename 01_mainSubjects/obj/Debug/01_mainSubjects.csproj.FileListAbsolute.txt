@@ -1,0 +1,14 @@
+C:\Users\t\source\repos\csharpegitimkampi\01_mainSubjects\bin\Debug\01_mainSubjects.exe.config
+C:\Users\t\source\repos\csharpegitimkampi\01_mainSubjects\bin\Debug\01_mainSubjects.exe
+C:\Users\t\source\repos\csharpegitimkampi\01_mainSubjects\bin\Debug\01_mainSubjects.pdb
+C:\Users\t\source\repos\csharpegitimkampi\01_mainSubjects\obj\Debug\01_mainSubjects.csproj.AssemblyReference.cache
+C:\Users\t\source\repos\csharpegitimkampi\01_mainSubjects\obj\Debug\01_mainSubjects.csproj.CoreCompileInputs.cache
+C:\Users\t\source\repos\csharpegitimkampi\01_mainSubjects\obj\Debug\01_mainSubjects.exe
+C:\Users\t\source\repos\csharpegitimkampi\01_mainSubjects\obj\Debug\01_mainSubjects.pdb
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\01_mainSubjects\bin\Debug\01_mainSubjects.exe.config
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\01_mainSubjects\bin\Debug\01_mainSubjects.exe
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\01_mainSubjects\bin\Debug\01_mainSubjects.pdb
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\01_mainSubjects\obj\Debug\01_mainSubjects.csproj.AssemblyReference.cache
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\01_mainSubjects\obj\Debug\01_mainSubjects.csproj.CoreCompileInputs.cache
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\01_mainSubjects\obj\Debug\01_mainSubjects.exe
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\01_mainSubjects\obj\Debug\01_mainSubjects.pdb

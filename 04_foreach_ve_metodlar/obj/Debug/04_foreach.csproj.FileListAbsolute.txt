@@ -1,0 +1,14 @@
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\04_foreach\bin\Debug\04_foreach.exe.config
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\04_foreach\bin\Debug\04_foreach.exe
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\04_foreach\bin\Debug\04_foreach.pdb
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\04_foreach\obj\Debug\04_foreach.csproj.AssemblyReference.cache
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\04_foreach\obj\Debug\04_foreach.csproj.CoreCompileInputs.cache
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\04_foreach\obj\Debug\04_foreach.exe
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\04_foreach\obj\Debug\04_foreach.pdb
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\04_foreach_ve_metodlar\obj\Debug\04_foreach.csproj.AssemblyReference.cache
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\04_foreach_ve_metodlar\obj\Debug\04_foreach.csproj.CoreCompileInputs.cache
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\04_foreach_ve_metodlar\obj\Debug\04_foreach.exe
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\04_foreach_ve_metodlar\obj\Debug\04_foreach.pdb
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\04_foreach_ve_metodlar\bin\Debug\04_foreach.exe.config
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\04_foreach_ve_metodlar\bin\Debug\04_foreach.exe
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\04_foreach_ve_metodlar\bin\Debug\04_foreach.pdb

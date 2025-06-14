@@ -1,0 +1,7 @@
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\console_example\console_example\bin\Debug\console_example.exe.config
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\console_example\console_example\bin\Debug\console_example.exe
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\console_example\console_example\bin\Debug\console_example.pdb
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\console_example\console_example\obj\Debug\console_example.csproj.AssemblyReference.cache
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\console_example\console_example\obj\Debug\console_example.csproj.CoreCompileInputs.cache
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\console_example\console_example\obj\Debug\console_example.exe
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\console_example\console_example\obj\Debug\console_example.pdb

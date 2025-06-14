@@ -1,0 +1,7 @@
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\03_array\bin\Debug\03_array.exe.config
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\03_array\bin\Debug\03_array.exe
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\03_array\bin\Debug\03_array.pdb
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\03_array\obj\Debug\03_array.csproj.AssemblyReference.cache
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\03_array\obj\Debug\03_array.csproj.CoreCompileInputs.cache
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\03_array\obj\Debug\03_array.exe
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\03_array\obj\Debug\03_array.pdb

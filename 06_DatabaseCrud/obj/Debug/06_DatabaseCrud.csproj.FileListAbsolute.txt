@@ -1,0 +1,7 @@
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\06_DatabaseCrud\bin\Debug\06_DatabaseCrud.exe.config
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\06_DatabaseCrud\bin\Debug\06_DatabaseCrud.exe
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\06_DatabaseCrud\bin\Debug\06_DatabaseCrud.pdb
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\06_DatabaseCrud\obj\Debug\06_DatabaseCrud.csproj.AssemblyReference.cache
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\06_DatabaseCrud\obj\Debug\06_DatabaseCrud.csproj.CoreCompileInputs.cache
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\06_DatabaseCrud\obj\Debug\06_DatabaseCrud.exe
+C:\Users\t\OneDrive\Masaüstü\csharpegitimkampi\06_DatabaseCrud\obj\Debug\06_DatabaseCrud.pdb

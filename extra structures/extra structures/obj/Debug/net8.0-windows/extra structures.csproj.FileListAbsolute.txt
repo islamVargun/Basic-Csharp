@@ -1,0 +1,16 @@
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\extra structures\extra structures\bin\Debug\net8.0-windows\extra structures.exe
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\extra structures\extra structures\bin\Debug\net8.0-windows\extra structures.deps.json
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\extra structures\extra structures\bin\Debug\net8.0-windows\extra structures.runtimeconfig.json
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\extra structures\extra structures\bin\Debug\net8.0-windows\extra structures.dll
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\extra structures\extra structures\bin\Debug\net8.0-windows\extra structures.pdb
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\extra structures\extra structures\obj\Debug\net8.0-windows\extra_structures.Form1.resources
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\extra structures\extra structures\obj\Debug\net8.0-windows\extra structures.csproj.GenerateResource.cache
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\extra structures\extra structures\obj\Debug\net8.0-windows\extra structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\extra structures\extra structures\obj\Debug\net8.0-windows\extra structures.AssemblyInfoInputs.cache
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\extra structures\extra structures\obj\Debug\net8.0-windows\extra structures.AssemblyInfo.cs
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\extra structures\extra structures\obj\Debug\net8.0-windows\extra structures.csproj.CoreCompileInputs.cache
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\extra structures\extra structures\obj\Debug\net8.0-windows\extra structures.dll
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\extra structures\extra structures\obj\Debug\net8.0-windows\refint\extra structures.dll
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\extra structures\extra structures\obj\Debug\net8.0-windows\extra structures.pdb
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\extra structures\extra structures\obj\Debug\net8.0-windows\extra structures.genruntimeconfig.cache
+C:\Users\t\OneDrive\Masaüstü\islam\csharpegitimkampi\extra structures\extra structures\obj\Debug\net8.0-windows\ref\extra structures.dll

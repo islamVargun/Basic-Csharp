@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\t\\OneDrive\\Masa\u00FCst\u00FC\\islam\\csharpegitimkampi\\classandmethod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{348ADB74-7C69-4311-AC26-DA18DC0EDB3F}|classandmethod\\classandmethod.csproj|c:\\users\\t\\onedrive\\masa\u00FCst\u00FC\\islam\\csharpegitimkampi\\classandmethod\\classandmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348ADB74-7C69-4311-AC26-DA18DC0EDB3F}|classandmethod\\classandmethod.csproj|solutionrelative:classandmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348ADB74-7C69-4311-AC26-DA18DC0EDB3F}|classandmethod\\classandmethod.csproj|c:\\users\\t\\onedrive\\masa\u00FCst\u00FC\\islam\\csharpegitimkampi\\classandmethod\\classandmethod\\kimlik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348ADB74-7C69-4311-AC26-DA18DC0EDB3F}|classandmethod\\classandmethod.csproj|solutionrelative:classandmethod\\kimlik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348ADB74-7C69-4311-AC26-DA18DC0EDB3F}|classandmethod\\classandmethod.csproj|c:\\users\\t\\onedrive\\masa\u00FCst\u00FC\\islam\\csharpegitimkampi\\classandmethod\\classandmethod\\islem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348ADB74-7C69-4311-AC26-DA18DC0EDB3F}|classandmethod\\classandmethod.csproj|solutionrelative:classandmethod\\islem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348ADB74-7C69-4311-AC26-DA18DC0EDB3F}|classandmethod\\classandmethod.csproj|c:\\users\\t\\onedrive\\masa\u00FCst\u00FC\\islam\\csharpegitimkampi\\classandmethod\\classandmethod\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348ADB74-7C69-4311-AC26-DA18DC0EDB3F}|classandmethod\\classandmethod.csproj|solutionrelative:classandmethod\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "kimlik.cs",
+              "DocumentMoniker": "C:\\Users\\t\\OneDrive\\Masa\u00FCst\u00FC\\islam\\csharpegitimkampi\\classandmethod\\classandmethod\\kimlik.cs",
+              "RelativeDocumentMoniker": "classandmethod\\kimlik.cs",
+              "ToolTip": "C:\\Users\\t\\OneDrive\\Masa\u00FCst\u00FC\\islam\\csharpegitimkampi\\classandmethod\\classandmethod\\kimlik.cs",
+              "RelativeToolTip": "classandmethod\\kimlik.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:34:52.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "student.cs",
+              "DocumentMoniker": "C:\\Users\\t\\OneDrive\\Masa\u00FCst\u00FC\\islam\\csharpegitimkampi\\classandmethod\\classandmethod\\student.cs",
+              "RelativeDocumentMoniker": "classandmethod\\student.cs",
+              "ToolTip": "C:\\Users\\t\\OneDrive\\Masa\u00FCst\u00FC\\islam\\csharpegitimkampi\\classandmethod\\classandmethod\\student.cs",
+              "RelativeToolTip": "classandmethod\\student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:32:05.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "islem.cs",
+              "DocumentMoniker": "C:\\Users\\t\\OneDrive\\Masa\u00FCst\u00FC\\islam\\csharpegitimkampi\\classandmethod\\classandmethod\\islem.cs",
+              "RelativeDocumentMoniker": "classandmethod\\islem.cs",
+              "ToolTip": "C:\\Users\\t\\OneDrive\\Masa\u00FCst\u00FC\\islam\\csharpegitimkampi\\classandmethod\\classandmethod\\islem.cs",
+              "RelativeToolTip": "classandmethod\\islem.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAjwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:12:32.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\t\\OneDrive\\Masa\u00FCst\u00FC\\islam\\csharpegitimkampi\\classandmethod\\classandmethod\\Program.cs",
+              "RelativeDocumentMoniker": "classandmethod\\Program.cs",
+              "ToolTip": "C:\\Users\\t\\OneDrive\\Masa\u00FCst\u00FC\\islam\\csharpegitimkampi\\classandmethod\\classandmethod\\Program.cs",
+              "RelativeToolTip": "classandmethod\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:12:10.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
